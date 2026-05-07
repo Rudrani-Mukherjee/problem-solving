@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
