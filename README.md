@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0059-spiral-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
