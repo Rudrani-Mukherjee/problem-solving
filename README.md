@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0912-sort-an-array) |
 ## Array
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0059-spiral-matrix-ii) |
+| [0169-majority-element](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -64,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
