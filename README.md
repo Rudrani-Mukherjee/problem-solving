@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0912-sort-an-array) |
 ## Array
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -48,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -127,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
