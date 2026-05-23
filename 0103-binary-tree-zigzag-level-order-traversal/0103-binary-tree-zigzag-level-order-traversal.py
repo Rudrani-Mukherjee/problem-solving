@@ -10,20 +10,20 @@ class Solution:
             return []
         result = []
         q = deque([root])
-        L_to_R = True 
         while q:
             length = len(q)
-            level = deque()
+            level = []
             for i in range(length):
                 node = q.popleft()
-                if L_to_R:
-                    level.append(node.val)
-                else:
-                    level.appendleft(node.val)
+                level.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            result.append(list(level))
-            L_to_R = not L_to_R
+            result.append(level)
+        for i in range(len(result)):
+            if i % 2 != 0:           
+                result[i] = result[i][::-1]
+            else:                    
+                result[i] = result[i]
         return result
