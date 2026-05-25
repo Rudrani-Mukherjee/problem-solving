@@ -143,4 +143,5 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0595-big-countries](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/1527-patients-with-a-condition) |
+| [1683-invalid-tweets](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
