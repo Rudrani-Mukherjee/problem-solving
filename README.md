@@ -138,5 +138,6 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
