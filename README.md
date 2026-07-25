@@ -6,6 +6,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0234-palindrome-linked-list) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/Rudrani-Mukherjee/problem-solving/tree/master/0169-majority-element) |
